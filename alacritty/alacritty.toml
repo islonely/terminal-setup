@@ -1,0 +1,10 @@
+[terminal.shell]
+	program = "/opt/homebrew/bin/fish"
+
+[window]
+	opacity = 0.8
+	blur = true
+
+[font]
+	size = 16
+	normal = { family = "Fantasque Sans Mono", style = "Regular" }
